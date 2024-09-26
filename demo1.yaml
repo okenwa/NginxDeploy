@@ -7,6 +7,6 @@ metadata:
     type: front-end
 
 spec:
-containers:
-  - name: nginx-container
+  containers:
+  - name: my-container
     image: nginx
