@@ -8,5 +8,5 @@ metadata:
 
 spec:
   containers:
-  - name: my-container
+  - name: nginx-container
     image: nginx
